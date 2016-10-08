@@ -1,0 +1,9 @@
+---
+title: "About This Website"
+output: 
+  html_document: 
+    theme: journal
+    toc: yes
+---
+
+Заметки по анализу FX с помощью R.
